@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="65678" started-at="2022-03-07T10:39:07Z" finished-at="2022-03-07T10:40:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="65678" started-at="2022-03-07T10:39:07Z" finished-at="2022-03-07T10:40:12Z">
+      <class name="TESTproject.TG_Login">
+        <test-method status="PASS" signature="openapp()[pri:0, instance:TESTproject.TG_Login@5d5eef3d]" name="openapp" is-config="true" duration-ms="11136" started-at="2022-03-07T16:09:07Z" finished-at="2022-03-07T16:09:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method status="PASS" signature="TG_Invalidlogin()[pri:0, instance:TESTproject.TG_Login@5d5eef3d]" name="TG_Invalidlogin" duration-ms="3154" started-at="2022-03-07T16:09:18Z" finished-at="2022-03-07T16:09:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TG_Invalidlogin -->
+        <test-method status="PASS" signature="openapp()[pri:0, instance:TESTproject.TG_Login@5d5eef3d]" name="openapp" is-config="true" duration-ms="9280" started-at="2022-03-07T16:09:21Z" finished-at="2022-03-07T16:09:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method status="PASS" signature="TG_Reset()[pri:0, instance:TESTproject.TG_Login@5d5eef3d]" name="TG_Reset" duration-ms="318" started-at="2022-03-07T16:09:30Z" finished-at="2022-03-07T16:09:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TG_Reset -->
+        <test-method status="PASS" signature="openapp()[pri:0, instance:TESTproject.TG_Login@5d5eef3d]" name="openapp" is-config="true" duration-ms="8938" started-at="2022-03-07T16:09:31Z" finished-at="2022-03-07T16:09:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method status="PASS" signature="TG_logout()[pri:0, instance:TESTproject.TG_Login@5d5eef3d]" name="TG_logout" duration-ms="12865" started-at="2022-03-07T16:09:40Z" finished-at="2022-03-07T16:09:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TG_logout -->
+        <test-method status="PASS" signature="openapp()[pri:0, instance:TESTproject.TG_Login@5d5eef3d]" name="openapp" is-config="true" duration-ms="11696" started-at="2022-03-07T16:09:53Z" finished-at="2022-03-07T16:10:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:TESTproject.TG_Login@5d5eef3d]" name="login" duration-ms="8241" started-at="2022-03-07T16:10:04Z" finished-at="2022-03-07T16:10:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- TESTproject.TG_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
