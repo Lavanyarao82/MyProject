@@ -24,6 +24,8 @@ public class TC_Reset {
 		System.out.println("username:" +name);
 		System.out.println("password:" +pass);
 		
+		
+		System.out.println("this is githb");
 		if(name.isEmpty() && pass.isEmpty())
 		{
 		  System.out.println("Reset is working....,testcase is passed ");
